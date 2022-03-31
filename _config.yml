@@ -1,5 +1,5 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Welcome to the BertoCisneros homepage
-description: Feel free to give an A on this assignment and any other projects it contains
+title: AI Coding CoPilot vs. Software Developer
+description: Coding CoPilots like GitHub and TabNine are tools developers can use that automate the coding process. These tools use AI to generate methods based on your work and commonly used methods like getters and setters or common algorithms.  
