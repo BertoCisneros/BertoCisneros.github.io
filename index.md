@@ -3,7 +3,8 @@ Coding CoPilots like GitHub CoPilot, TabNine, and Kite are tools developers can 
 
 The AI Programmer with the most notoriety by far has been **GitHub CoPilot**. On June 29th, 2021, GitHub announced a technical preview of the CoPilot. What GitHub CoPilot aims to achieve is to "help you write code faster and with less work". The tool is available for a direct install as a plug-in/extension into your choice of one of its many compatible IDE's but you will not have access to the tool as there is a waitlist (use the link in sources if interested), but once approved you can sign in with your GitHub account to have access. It is currently free as it’s only a technical preview, but GitHub plans to release a full paid version in the future.
 
-### The AI
+### OpenAI
+GitHub CoPilot is powered by OpenAI Codex which is a descendant and improvement of GPT-3. GPT-3 is a neural network machine learning model using internet data to generate diferent types of text. One example of its uses have been to write blog posts. A college student used GPT-3 to write this blog post [Feeling unproductive? Maybe you should stop overthinking.](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should?s=r). Also, OpenAI has had 1 billion dollars funded by Microsoft and was Co-Founded by Elon Musk. 
 
 ### My Experience
 I actually enrolled in the Github CoPilot waitlist months ago and have had a few days to play around with the tool at the time of writing this blog. Take my experience though with a grain of salt as I’ve had limited time with the tool and I'm a student and don't currently have a developer position with an employer. 
@@ -33,14 +34,22 @@ When it comes to certain industries, AI has taken on the role of the boogeyman c
 
 - **Is my private code safe since the AI will be learning from it?**
 
+I believe this question will be one that will be the most prevalent in the coming years. GitHub CoPilot does use telemetry which is the process of recording and saving the code you write(in this context). The GitHub CoPilot page gives the usually speel about data that most comanies give in that its stored, secure, and only has human eyes on it when necessary. 
 
+There is one concerning answer GitHub offered from FAQ about privacy. 
+
+> Does GitHub Copilot ever output personal data?
+Because GitHub Copilot was trained on publicly available code, its training set included public personal data included in that code. From our internal testing, we found it to be extremely rare that GitHub Copilot suggestions included personal data verbatim from the training set. In some cases, the model will suggest what appears to be personal data – email addresses, phone numbers, access keys, etc. – but is actually made-up information synthesized from patterns in training data. For the technical preview, we have implemented a rudimentary filter that blocks emails when shown in standard formats, but it’s still possible to get the model to suggest this sort of content if you try hard enough.
+
+While it is rare, it is possible to have personal data appear. With this, I wonder if CoPilot is something employers would forbid there developers to use. It doesn't really seem worth the risk. 
 
 - **Will it always write good quality code?**
 
-
+The answer to this one is simple. No. It can provide impressive results but it doesnt always work in rare cases provides gibberish. 
 
 ## Conclusion
 
+In conclusion, I honestly think GitHub CoPilot is a really cool concept and could be extremely useful. Just like with anything in life, it would need to be used with moderation. You can't really blame the tool because you use it too much and get lazy. On the otherhand, I do think it could be a big concern for students. If I would have had this tool as a freshman or sophomore, a lot of my assignments would have been much easier and I would have been worse off for it. All the AI pair programmers are still in their infancy but it will be exciting to see how they grow, and I doubt it will be without controversy. 
 
 ### Sources
 [GitHub CoPilot](https://copilot.github.com)
@@ -50,5 +59,7 @@ When it comes to certain industries, AI has taken on the role of the boogeyman c
 [Kite](https://www.kite.com)
 
 [BizJournals - Self-checkouts contribute to retail jobs decline](https://www.bizjournals.com/bizwomen/news/latest-news/2019/04/self-checkouts-contribute-to-retail-jobs-decline.html?page=all)
+
+[Feeling unproductive? Maybe you should stop overthinking.](https://adolos.substack.com/p/feeling-unproductive-maybe-you-should?s=r)
 
 
