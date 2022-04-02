@@ -12,8 +12,10 @@ I tested the CoPilot in two ways.
 
 First, I began working on one of my incomplete projects which happened to be a website. This project has been built up by a framework and has thousands of LOC and a decent amount of work done on it. So, I assumed that would be enough context for me to experience the CoPilot, but I was wrong. The issue was that I was working with html and although GitHub CoPilot states that it can be used for a wide range of languages and frameworks; it does work better with certain ones. HTML is not one of the languages it works well with. Even though there was plenty of context, it did a poor job of suggesting much that was useful outside of making a button or other small insights. Which I’m not complaining because HTML isn't my forte and it can be tedious, but in this context the CoPilot was basically a step above auto complete features that exist.
 
-Second, I decided to test the CoPilot with one of the languages it excels in, and I chose python. I have almost no experience with python, but I could understand it enough to do some very easy leetcode/interview coding questions. So, to test I began going through different leetcode problems on varying difficulty to see what it could do. I would take the question prompt and paste it into my IDE and comment it all out. All I needed to do next was make a relevant function name and **boom** it gave me a full function to use if I just hit `tab`. I tried this on varying degrees of difficulty, and it usually accepted the answer with all testcases leetcode had for the prompt. One thing to note is as the prompts got harder, it was pretty difficult to decipher what the function was doing but it usually worked. 
+Second, I decided to test the CoPilot with one of the languages it excels in, and I chose python. I have almost no experience with python, but I could understand it enough to do some very easy leetcode/interview coding questions. So, to test I began going through different leetcode problems on varying difficulty to see what it could do. I would take the question prompt and paste it into my IDE and comment it all out. All I needed to do next was make a relevant function name and **boom** it gave me a full function to use if I just hit `tab`. I tried this on varying degrees of difficulty, and it usually accepted the answer with all testcases leetcode had for the prompt. One thing to note is as the prompts got harder, it was pretty difficult to decipher what the function was doing but it usually worked.
+
 Does that mean I can write python code? Apparently, I can. 
+
 Can I consider myself a python dev? Definitely not. 
 
 ## Should Developers Fear or Embrace the CoPilot
@@ -27,7 +29,7 @@ On one hand you could say you accomplished your tasks for the day that much fast
 
 - **Has AI begun to work its way into replacing jobs of developers?**
 
-
+When it comes to certain industries, AI has taken on the role of the boogeyman coming to take jobs. An obvious example of this is Wal-Mart's move to self-checkouts over cashiers. "Retail has lost more than 140,000 jobs since January 2017 and is still declining despite strong growth in nearly every other sector and a historically-low unemployment rate" (BizJournals.com). With that many jobs lost, it is a pretty serious concern, but should developers be worried? A key point of these tools is right in the name, **CO**-pilot. For what the tool is right now, it cant be operated without a developer being the pilot and choosing what code is useful from the CoPilots suggestions. But, with the AI heavy hitter that is OpenAI then who knows wwhat could happen in the coming decades. 
 
 - **Is my private code safe since the AI will be learning from it?**
 
@@ -46,5 +48,7 @@ On one hand you could say you accomplished your tasks for the day that much fast
 [TabNine](https://www.tabnine.com)
 
 [Kite](https://www.kite.com)
+
+[BizJournals - Self-checkouts contribute to retail jobs decline](https://www.bizjournals.com/bizwomen/news/latest-news/2019/04/self-checkouts-contribute-to-retail-jobs-decline.html?page=all)
 
 
