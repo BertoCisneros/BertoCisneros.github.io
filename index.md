@@ -5,13 +5,15 @@ The AI Programmer with the most notoriety by far has been **GitHub CoPilot**. On
 
 ### The AI
 
-
+### My Experience
+I actually enrolled in the Github CoPilot waitlist months ago and have had a few days to play around with the tool at the time of writing this blog. Take my expereince though with a grain of salt as i've had limited time with the tool and I'm a student and don't currently have a developer position with an employer. 
 
 ## Should Developers Fear or Embrace the CoPilot
 With the emergence of this new tool, it begs to ask several questions.
 
 - Will this make me more efficient as a developer?
-There is a common narrative amongst developers that a big part of being an efficient developer is being an efficient 'googler'. While we must admit that googling itself can be too much of a crutch at times, it is often much faster to look on stack overflow for a quick fix. Not every line of code or function needs to be given 100% of your attention and years of refined coding skill. Some things just need to barely get the job done and thats fine. Stack overflow and other sites help to serve that exact purpose, but here's where it starts to get a little bit different with CoPilot's. 
+
+There is a common narrative amongst developers that a big part of being an efficient developer is being an efficient 'googler'. While we must admit that googling itself can be too much of a crutch at times, it is often much faster to look on stack overflow for a quick fix. Not every line of code or function needs to be given 100% of your attention and years of refined coding skill. Some things just need to barely get the job done and thats fine. Stack overflow and other sites help to serve that exact purpose, but here's where it starts to get a little bit different with these AI CoPilot's. At times working with this tool did feel like too much of a crutch. 
 
 - Has AI begun to work it's way into replacing jobs of developers?
 - Is my private code safe since the AI will be learning from it?
@@ -19,7 +21,7 @@ There is a common narrative amongst developers that a big part of being an effic
 
 
 ## Conclusion
-I actually enrolled in the Github CoPilot waitlist months ago and have had a few days to play around with the tool at the time of writing this blog. 
+
 
 ### Sources
 [GitHub CoPilot](https://copilot.github.com)
