@@ -45,7 +45,7 @@ While it is rare, it is possible to have personal data appear. With this, I wond
 
 - **Will it always write good quality code?**
 
-The answer to this one is simple. No. It can provide impressive results but it doesnt always work in rare cases provides gibberish. 
+The answer to this one is simple. No. It can provide impressive results but it doesnt always work and in some cases provides gibberish. 
 
 ## Conclusion
 
